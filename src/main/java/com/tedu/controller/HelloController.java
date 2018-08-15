@@ -17,4 +17,10 @@ public class HelloController {
 	public void test(){
 
 	}
+
+
+
+	public void test1(){
+
+	}
 }
