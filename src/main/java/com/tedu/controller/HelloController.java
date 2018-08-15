@@ -13,4 +13,8 @@ public class HelloController {
 		System.out.println("aaaaa");
 		return "hello";
 	}
+
+	public void test(){
+
+	}
 }
